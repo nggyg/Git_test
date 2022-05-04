@@ -1,0 +1,3 @@
+D:/INfo - Workspace/C++/Git_test/cmake-build-debug/CMakeFiles/Git_test.dir
+D:/INfo - Workspace/C++/Git_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/INfo - Workspace/C++/Git_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
